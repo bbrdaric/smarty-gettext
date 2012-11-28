@@ -1,4 +1,4 @@
-#summary Example files contained in package
+#summary Example files contained in package and how to run/test them in command line
 
 = example_00.php =
 This is the basic example that will do for most people. You don't need to re-configure smarty or add functionality to it. It's just works out of the box. This will apply for most users.
