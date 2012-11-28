@@ -41,7 +41,7 @@ $smarty->setConfigDir(BASE_PATH.'compile');
 }}}
 
 = Step 2 =
-Register the custom locale function (if you use it). Example given in line 35 of *index.php*:
+Register the custom locale function (if you use it. Again, you don't have to use it if you set your text-domain from within the PHP application AND you've only got one text-domain for all your templates. See [http://code.google.com/p/smarty-gettext/wiki/SmartyTemplateExamples example_00 here]). Example given in line 35 of *index.php*:
 
 {{{
 $smarty->registerPlugin('function', 'locale', '\\mebb\\app\\core\\web\\smarty\\functions\\locale');
