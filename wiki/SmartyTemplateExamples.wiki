@@ -80,7 +80,7 @@ php example_01.php [locale]
     * *php example_01.php de_DE* to force German locale 
     * *php example_01.php en_GB* to force UK locale
 
-===Output===
+==Output==
 
 For the en_GB locale the output is the following.
 {{{
@@ -135,7 +135,7 @@ This is the template included from the template above. As you see there is no sp
     * *php example_02.php de_DE* to force German locale 
     * *php example_02.php en_GB* to force UK locale
 
-===Output===
+==Output==
 
 For the en_GB locale the output is the following.
 {{{
@@ -205,7 +205,7 @@ You will also notice one oddity at the bottom of the file, the *{locale stack='p
     * *php example_03.php en_GB* to force UK locale
 
 
-===Output===
+==Output==
 
 For the en_GB locale the output is the following.
 {{{
@@ -275,7 +275,7 @@ You will notice that this is the same as in example_03 from above, with the exce
     * *php example_faulty_pop.php de_DE* to force German locale 
     * *php example_faulty_pop.php en_GB* to force UK locale
 
-===Output===
+==Output==
 
 For the en_GB locale the output is the following.
 {{{
