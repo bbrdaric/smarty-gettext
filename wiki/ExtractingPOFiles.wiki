@@ -1,6 +1,7 @@
 #summary How to generate PO files from the template files
 
 = Extracting PO Files automatically =
+<wiki:toc max_depth="2" />
 
 Have a look at the file *index.php* and modify it to suit your needs. 
 
