@@ -20,9 +20,7 @@
  * @version $Revision$
  * @date $Date$
  * @author Karlheinz Toni <karlheinz.toni@gmail.com>
- * @lastchanged $Author$
  * @link http://code.google.com/p/smarty-gettext/
- * @link $HeadURL$
  * @copyright 2012 Karlheinz Toni
  */
 namespace mebb\lib\i18n\smarty;
