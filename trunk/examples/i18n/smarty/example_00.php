@@ -28,6 +28,7 @@ $path = BASE_PATH.'locale';
 $domain = 'messages';//this is the default text-domain
 bindtextdomain($domain, $path); 
 textdomain($domain);
+bind_textdomain_codeset($domain, 'UTF-8');
 
 
 //DONE! THE REST IST JUST FOR DEMONSTRATION PURPOSES
