@@ -76,7 +76,7 @@ php example_01.php [locale]
 ==Running The Example==
   # cd to *./examples/i18n/smarty/*
   # open example_01.php in any editor of your choice
-  # replace line 6 by including your Smarty class and delete line 9
+  # replace line 7 by including your Smarty class and delete line 9
   # exit the editor and run the program by: 
     * *php example_01.php* 
     * *php example_01.php de_DE* to force German locale 
