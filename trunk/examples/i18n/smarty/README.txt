@@ -15,8 +15,6 @@
  * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA *
  * ------------------------------------------------------------------------- *
  *
- * @version $version$
- * @date $date$
  * @link  http://code.google.com/p/smarty-gettext/
  * @author  Karlheinz Toni <karlheinz.toni@gmail.com>
  * @copyright 2012 Karlheinz Toni
