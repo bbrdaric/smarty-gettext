@@ -7,15 +7,15 @@
   *
   */
 DEFINE('BASE_PATH', __DIR__.DIRECTORY_SEPARATOR);
-include BASE_PATH.'../../../mebb_functions_glob_recursive.php';
-include BASE_PATH.'../../../mebb_i18n_smarty.php';
+include realpath(BASE_PATH.'../../../mebb_functions_glob_recursive.php');
+include realpath(BASE_PATH.'../../../mebb_i18n_smarty.php');
 
 if(file_exists(BASE_PATH.'../../../../smarty/Smarty.class.php')){
   include_once BASE_PATH.'../../../../smarty/Smarty.class.php';
   include_once BASE_PATH.'../../../../../app/core/web/smarty/functions/locale.php';
 }else{
   print 'PLEASE INCLUDE YOUR SMARTY CLASS IN FILE '.__FILE__.' line '.__LINE__.' AND REMOVE THE exit() STATEMENT IN LINE '.(__LINE__ + 2).PHP_EOL;
-  include BASE_PATH.'../../../mebb_i18n_smarty_function_locale.php';
+  include realpath(BASE_PATH.'../../../mebb_i18n_smarty_function_locale.php');
   exit();
 }
 
