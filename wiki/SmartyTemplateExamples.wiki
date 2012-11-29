@@ -131,7 +131,7 @@ This is the template included from the template above. As you see there is no sp
 ==Running The Example==
   # cd to *./examples/i18n/smarty/*
   # open example_02.php in any editor of your choice
-  # replace line 6 by including your Smarty class and delete line 9
+  # replace line 7 by including your Smarty class and delete line 9
   # exit the editor and run the program by 
     * *php example_02.php* 
     * *php example_02.php de_DE* to force German locale 
@@ -200,7 +200,7 @@ You will also notice one oddity at the bottom of the file, the *{locale stack='p
 ==Running The Example==
   # cd to *./examples/i18n/smarty/*
   # open example_03.php in any editor of your choice
-  # replace line 6 by including your Smarty class and delete line 9
+  # replace line 7 by including your Smarty class and delete line 9
   # exit the editor and run the program by:
     * *php example_03.php*  
     * *php example_03.php de_DE* to force German locale  
@@ -271,7 +271,7 @@ You will notice that this is the same as in example_03 from above, with the exce
 ==Running The Example==
   # cd to *./examples/i18n/smarty/*
   # open example_faulty_pop.php in any editor of your choice
-  # replace line 6 by including your Smarty class and delete line 9
+  # replace line 7 by including your Smarty class and delete line 9
   # exit the editor and run the program by:
     * *php example_faulty_pop.php* 
     * *php example_faulty_pop.php de_DE* to force German locale 
