@@ -6,5 +6,5 @@
     * [ExtractingPOFiles#STEP_2 Step 2]
     * [ExtractingPOFiles#STEP_3 Step 3]
     * [ExtractingPOFiles#STEP_4 Step 4]
-    * [ExtractingPOFiles#Now_what? Extract PO files]
+    * [ExtractingPOFiles##Now_what?_Extract_PO_files Now what? Extract PO files]
   * [SmartyTemplateExamples Template Examples]
