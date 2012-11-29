@@ -1,4 +1,5 @@
 #summary no real content here, just for navigation purposes
 
   * [ExtractingPOFiles Extract PO files]
+    * [ExtractingPOFiles#STEP_0 Step 0]
   * [SmartyTemplateExamples Template Examples]
