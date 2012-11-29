@@ -17,8 +17,6 @@
  * ------------------------------------------------------------------------- *
  *
  * @package mebb-lib-i18n-smarty
- * @version $Revision$
- * @date $Date$
  * @author Karlheinz Toni <karlheinz.toni@gmail.com>
  * @link http://code.google.com/p/smarty-gettext/
  * @copyright 2012 Karlheinz Toni
