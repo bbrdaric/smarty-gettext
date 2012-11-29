@@ -20,8 +20,8 @@
  * $smarty->registerPlugin('function', 'locale', '\\mebb\\app\\core\\web\\smarty\\functions\\locale');
  *
  * @package mebb-app-core-web-smarty-functions
- * @version 1.2
- * @date Thu Nov 29 23:16:41 CET 2012
+ * @version $version$
+ * @date $date$
  * @link  http://code.google.com/p/smarty-gettext/
  * @author  Karlheinz Toni <karlheinz.toni@gmail.com>
  * @copyright 2012 Karlheinz Toni
