@@ -17,10 +17,12 @@
  * ------------------------------------------------------------------------- *
  *
  * @package mebb-lib-functions
- * @version 1.2
- * @date Thu Nov 29 23:16:41 CET 2012
- * @link  http://code.google.com/p/smarty-gettext/
- * @author  Karlheinz Toni <karlheinz.toni@gmail.com>
+ * @version $Revision$
+ * @date $Date$
+ * @author Karlheinz Toni <karlheinz.toni@gmail.com>
+ * @lastchanged $Author$
+ * @link http://code.google.com/p/smarty-gettext/
+ * @link $HeadURL$
  * @copyright 2012 Karlheinz Toni
  */
 
