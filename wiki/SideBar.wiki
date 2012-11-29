@@ -2,4 +2,9 @@
 
   * [ExtractingPOFiles Extract PO files]
     * [ExtractingPOFiles#STEP_0 Step 0]
+    * [ExtractingPOFiles#STEP_1 Step 1]
+    * [ExtractingPOFiles#STEP_2 Step 2]
+    * [ExtractingPOFiles#STEP_3 Step 3]
+    * [ExtractingPOFiles#STEP_4 Step 4]
+    * [ExtractingPOFiles#Now_what? Extract PO files]
   * [SmartyTemplateExamples Template Examples]
