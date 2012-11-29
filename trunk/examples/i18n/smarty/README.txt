@@ -20,5 +20,5 @@
  * @copyright 2012 Karlheinz Toni
  */
 
-project URL: https://code.google.com/p/smarty-gettext/
-gettext not working on Ubuntu: http://stackoverflow.com/questions/5257519/cant-get-gettext-php-on-ubuntu-working
+All examples explained here: http://code.google.com/p/smarty-gettext/wiki/SmartyTemplateExamples
+How to extract PO files from templates: http://code.google.com/p/smarty-gettext/wiki/ExtractingPOFiles
