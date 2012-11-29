@@ -1,10 +1,10 @@
 #summary no real content here, just for navigation purposes
 
   * [ExtractingPOFiles Extract PO files]
-    * [ExtractingPOFiles#STEP_0 Step 0]
-    * [ExtractingPOFiles#STEP_1 Step 1]
-    * [ExtractingPOFiles#STEP_2 Step 2]
-    * [ExtractingPOFiles#STEP_3 Step 3]
-    * [ExtractingPOFiles#STEP_4 Step 4]
+    * [ExtractingPOFiles#Step_ Step 0]
+    * [ExtractingPOFiles#Step_1 Step 1]
+    * [ExtractingPOFiles#Step_2 Step 2]
+    * [ExtractingPOFiles#Step_3 Step 3]
+    * [ExtractingPOFiles#Step_4 Step 4]
     * [ExtractingPOFiles#Now_what?_Extract_PO_files Now what? Extract PO files]
   * [SmartyTemplateExamples Template Examples]
