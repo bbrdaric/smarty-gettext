@@ -5,7 +5,7 @@
 
 Have a look at the file *index.php* and modify it to suit your needs. 
 
-= STEP 0 = 
+= Step 0 = 
 Open *index.php* and replace line 17 by including your smarty class and delete line 19
 
 The start of the file should look somewhat like this after doing the above (sorry for all the fuzz in lines 10-15. I just didn't want to maintain this package outside the whole framework... It's not as bad as it looks...)
@@ -32,7 +32,7 @@ if(file_exists(BASE_PATH.'../../../../smarty/Smarty.class.php')){
 }
 }}}
 
-= STEP 1 = 
+= Step 1 = 
 Load smarty as you usually do alongside with all your plugins. An example is given in lines 28-31 of *index.php*:
 
 {{{
