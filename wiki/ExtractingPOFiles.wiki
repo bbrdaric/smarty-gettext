@@ -2,8 +2,6 @@
 
 = Extracting PO Files automatically =
 
-<wiki:toc max_depth="2" />
-
 Have a look at the file *index.php* and modify it to suit your needs. 
 
 = STEP 0 = 
@@ -107,7 +105,7 @@ msgstr[1] ""
 
 That's basically it :) You're done...
 
-=Now what?=
+=Now what? Extract PO files=
 When calling save or save_individual you either can pass them a path to a file/directory or it will automatically create one in the OS temporary directory and return it for you.
 
 All that's left to do is calling e.g. xgettext:
