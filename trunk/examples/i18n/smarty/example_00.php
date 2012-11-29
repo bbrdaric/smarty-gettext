@@ -3,7 +3,7 @@ DEFINE('BASE_PATH', __DIR__.DIRECTORY_SEPARATOR);
 if(file_exists(BASE_PATH.'../../../../smarty/Smarty.class.php')){
   include_once BASE_PATH.'../../../../smarty/Smarty.class.php';
 }else{
-  print 'PLEASE INCLUDE YOUR SMARTY CLASS HERE';
+  print 'PLEASE INCLUDE YOUR SMARTY CLASS IN FILE '.__FILE__.' line '.__LINE__.' AND REMOVE THE exit() STATEMENT IN LINE '.(__LINE__ + 1).PHP_EOL;
   exit();
 }
 
