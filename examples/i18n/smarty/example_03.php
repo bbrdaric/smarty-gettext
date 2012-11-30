@@ -1,6 +1,6 @@
 <?php
 DEFINE('BASE_PATH', __DIR__.DIRECTORY_SEPARATOR);
-if(file_exists(BASE_PATH.'../../../../smarty/Smarty.class.php')){
+if(file_exists(BASE_PATH.'../../../../../.mebb')){//this is just for the our framework. just ignore this. the else block is relevant for you :)
   include_once BASE_PATH.'../../../../smarty/Smarty.class.php';
   include_once BASE_PATH.'../../../../../app/core/web/smarty/functions/locale.php';
 }else{

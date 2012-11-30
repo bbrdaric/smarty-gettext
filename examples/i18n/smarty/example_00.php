@@ -1,6 +1,6 @@
 <?php
 DEFINE('BASE_PATH', __DIR__.DIRECTORY_SEPARATOR);
-if(file_exists(BASE_PATH.'../../../../smarty/Smarty.class.php')){
+if(file_exists(BASE_PATH.'../../../../../.mebb')){//this is just for the our framework. just ignore this. the else block is relevant for you :)
   include_once BASE_PATH.'../../../../smarty/Smarty.class.php';
 }else{
   print 'PLEASE INCLUDE YOUR SMARTY CLASS IN FILE '.__FILE__.' line '.__LINE__.' AND REMOVE THE exit() STATEMENT IN LINE '.(__LINE__ + 1).PHP_EOL;
