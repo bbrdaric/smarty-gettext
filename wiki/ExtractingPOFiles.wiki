@@ -113,7 +113,7 @@ All that's left to do is calling e.g. xgettext:
 if you called *save_indivdual*
 
   * cd DIRECTORY
-  * xgettext -n \*.tpl --language=PHP
+  * xgettext -n `*`.tpl --language=PHP
 
 if you called *save*
 
