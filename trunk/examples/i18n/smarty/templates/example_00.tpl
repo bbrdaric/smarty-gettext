@@ -8,7 +8,7 @@ When can you use this example?
 RUNNING THE EXAMPLE:
 php example_00.php [locale]
 
-{"This is my first translation message"|gettext}
+{_("This is my first translation message")}
 {"This is my yet another translation message with a custom modifier"|gettext|substr:0:60}
 {"%d comment"|ngettext:"%d comments":1|sprintf:1}
 {"%d comment"|ngettext:"%d comments":0|sprintf:0}
