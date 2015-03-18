@@ -1,11 +1,11 @@
 * [Introduction] (#introduction)
 * [Requirements] (#requirements)
 * [Examples] (#examples)
-* [xgettext && PO files] (#xgettext-&&-po-files)
+* [xgettext && PO files] (#xgettext--po-files)
 * [Tested on] (#tested-on)
 * [Download] (#download)
 * [SVN] (#svn)
-* [Download zip/tar.gz] (#Download zip/tar.gz)
+* [Download zip/tar.gz] (#download-ziptargz)
 * [Similar Projects] (#similar-projects)
 * [Credits] (#credits)
 
